@@ -1,0 +1,16 @@
+{
+  "name": "Skooldio-homework",
+  "version": "1.0.0",
+  "description": "A homework from Skooldio",
+  "main": "index.js",
+  "repository": "https://github.com/peeranat-dan/skooldio-homework.git",
+  "author": "Nin <ppeeranat.d@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --watchAll --coverage"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
